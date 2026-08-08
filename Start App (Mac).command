@@ -5,9 +5,9 @@
 
 cd "$(dirname "$0")"
 
-echo "============================================"
-echo "  File Organizer - macOS Startup Script"
-echo "============================================"
+echo "==================================================================="
+echo "  File Organizer - macOS Startup Script (Was made by Oleh Datsyk)"
+echo "==================================================================="
 echo
 
 # --- Step 1: Check Python is installed ---

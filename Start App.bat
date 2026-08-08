@@ -3,9 +3,9 @@ setlocal enabledelayedexpansion
 title File Organizer - Startup
 cd /d "%~dp0"
 
-echo ============================================
-echo   File Organizer - Windows Startup Script
-echo ============================================
+echo =====================================================================
+echo   File Organizer - Windows Startup Script (Was made by Oleh Datsyk)
+echo =====================================================================
 echo.
 
 REM --- Step 1: Check Python is installed ---
